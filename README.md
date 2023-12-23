@@ -1,5 +1,5 @@
 <h1>Description</h1>
-<p> Welcome to my Project. This is the simple and classic Snake Game developed by Bruck Sheferaw. The snake game is one of the earliest and most popular games in hummanity. I hope you enjoy the game! </p>
+<p> Welcome to my Project. This is the simple and classic Snake Game developed by Bruck Sheferaw. The snake game is one of the earliest and most popular games in humanity. I hope you enjoy the game! </p>
 <h1> Specifications </h1>
 <ul>
   <li>100% Python language</li>
